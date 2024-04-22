@@ -13,3 +13,5 @@ Imports:
     lifecycle,
     osfr,
     pins
+URL: https://github.com/venpopov/pins.osf
+BugReports: https://github.com/venpopov/pins.osf/issues
