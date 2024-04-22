@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^pins\.osf\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
